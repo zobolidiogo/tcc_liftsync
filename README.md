@@ -105,7 +105,7 @@ Análise apresentada em gráficos desenvolvidos no Power BI, comprovando a viabi
 
 ---
 
-## 📊 Modelagem de Dados
+## Modelagem de Dados
 
 A modelagem foi desenvolvida no Oracle Data Modeler, seguindo as melhores práticas de normalização:
 
