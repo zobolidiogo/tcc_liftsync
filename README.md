@@ -268,11 +268,11 @@ Com a implementação do LiftSync, espera-se:
 
 Possibilidades de evolução do projeto:
 
-- [ ] Implementação de IA para recomendação automática de treinos
-- [ ] Expansão do acompanhamento nutricional com metas calóricas personalizadas
-- [ ] Integração com wearables (smartwatches, pulseiras fitness)
-- [ ] Gamificação (conquistas, badges, rankings)
-- [ ] Desenvolvimento do aplicativo funcional (frontend + backend)
+- Implementação de IA para recomendação automática de treinos
+- Expansão do acompanhamento nutricional com metas calóricas personalizadas
+- Integração com wearables (smartwatches, pulseiras fitness)
+- Gamificação (conquistas, badges, rankings)
+- Desenvolvimento do aplicativo funcional (frontend + backend)
 
 ---
 
