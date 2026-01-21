@@ -4,7 +4,7 @@ VALUES
 ('Diogo', '2007-01-10', 'diogo@seuemail.com', '48999990001', 'hash123abc'),
 ('Julia', '2007-01-10', 'julia@seuemail.com', '48999990003', 'hash789ghi'),
 ('Aram San San', '2007-01-10', 'aram@seuemail.com', '48999990004', 'hash321jkl'),
-('Alfredo Legal', '2007-01-10', 'felipe@seuemail.com', '48999990005', 'hash654mno');
+('Alfredo Legal', '2007-01-10', 'alfredo@seuemail.com', '48999990005', 'hash654mno');
 
 INSERT INTO T_LS_PUBLICACAO (cd_usuario, dt_publicacao, ds_publicacao, ds_imagem, ds_video)
 VALUES
@@ -625,3 +625,4 @@ SELECT * FROM T_LS_ALIMENTO;
 SELECT * FROM T_LS_INFORMACAO_NUTRICIONAL;
 
 SELECT * FROM T_LS_REFEICAO_ALIMENTO;
+
